@@ -1,3 +1,1 @@
-print("Hello World")
-print("Hello world")
-jjjj
+все хуйня я не понимаю
